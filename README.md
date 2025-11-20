@@ -1,10 +1,11 @@
 # French School’s Projets Pédagogiques Management System (WordPress Plugin)
 
-## 🧩 Introduction
+## Introduction
 This plugin manages **Projets Pédagogiques** (Pedagogical Projects) in French international schools, allowing teachers to propose, track, and document projects such as school outings, cultural activities, competitions, and interdisciplinary work.
 It offers a modern, workflow-driven system accessible within WordPress.
+
 ---
-## 🎯 Key Features
+## Key Features
 - Teacher project proposal form  
 - Approval workflow (Teacher → Coordinator → Headmaster)  
 - Budget & logistics sections  
@@ -16,14 +17,14 @@ It offers a modern, workflow-driven system accessible within WordPress.
 - Dashboard for Administration & Teachers  
 - Notifications via email/WhatsApp (optional)  
 ---
-## 🛠️ Tech Stack
+## Tech Stack
 - WordPress 6+  
 - PHP 8.2+  
 - Custom post types & meta fields  
 - React/Gutenberg for admin UI  
 - WordPress REST API  
 ---
-## 🧠 Modules Overview
+## Modules Overview
 - **Project Proposal**  
 - **Budget & Financing**  
 - **Logistics** (transport, meals, permissions)  
@@ -32,8 +33,16 @@ It offers a modern, workflow-driven system accessible within WordPress.
 - **Approval Workflow**  
 - **Reporting & Printing**
 ---
-## 📦 Installation
+## Installation
 1. Upload plugin folder to `/wp-content/plugins/`  
 2. Activate plugin in WordPress admin  
 3. Configure academic sessions and project categories  
-4. Add teacher proposal form via shortcode:  
+4. Add teacher proposal form via shortcode:
+---
+## Future Enhancements
+- Integration with Eduprojet (Laravel)  
+- Parent signature workflow  
+- Payment and funding tracker  
+---
+## License
+Proprietary © 2025 ThewiWorks
